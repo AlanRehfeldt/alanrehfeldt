@@ -2,7 +2,7 @@
 
 <h3>Software developer passionate for programming and learning</h3>
 
-- 🔭 I’m currently open to work
+- 🔭 I’m currently working at Agrotis Agroinformática
 - 🌱 I’m currently learning React.js
 
 #### 💬 Find me
