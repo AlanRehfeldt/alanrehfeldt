@@ -2,8 +2,8 @@
 
 <h3>Software developer passionate for programming and learning</h3>
 
-- 🔭 I’m currently working at Agrotis Agroinformática
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working at Evo Sistemas Inteligentes as a Fullstack Developer
+- 🌱 I’m currently learning React.js and Java
 
 #### 💬 Find me
 
