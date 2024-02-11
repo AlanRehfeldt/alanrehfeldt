@@ -2,8 +2,8 @@
 
 <h3>Software developer passionate for programming and learning</h3>
 
-- 🔭 I’m currently working at Evo Sistemas Inteligentes as a Fullstack Developer
-- 🌱 I’m currently learning React.js and Java
+- 🔭 I’m currently working at Printer do Brasil as a Fullstack Developer
+- 🌱 I’m currently learning React.js and NodeJS
 
 #### 💬 Find me
 
@@ -40,5 +40,8 @@
   </a> 
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </p>
